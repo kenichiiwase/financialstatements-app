@@ -32,7 +32,7 @@ function getInvestInf() {
   let message = today + "の決算短信じゃ\n";
   message += "確認せ～\n";
   message +=
-    "https://docs.google.com/spreadsheets/d/1JGoYsmpcfko3JrybQtAx4FWeEsnTLA8Bi_m-jnO0HAY/edit?usp=sharing\n\n";
+    "スプレッドシートのリンクをコピーしここに張り付ける。\n\n";
   const response = UrlFetchApp.fetch(api);
   let investobj = JSON.parse(response.getContentText());
   if (investobj.total_count > 0) {
