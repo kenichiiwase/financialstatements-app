@@ -53,9 +53,9 @@ function getInvestInf() {
 
           arr.push([companycode, companyname, title, documenturl]);
 
-          let id = "1JGoYsmpcfko3JrybQtAx4FWeEsnTLA8Bi_m-jnO0HAY";
+          let id = "書き出しをしたいスプレッドシートのid";
           let ss = SpreadsheetApp.openById(id);
-          let sheet = ss.getSheetByName("決算短信");
+          let sheet = ss.getSheetByName("ご自身で設定したシート名");
           let iii = arr.length; //タテ（行数）
           let jjj = arr[0].length; //ヨコ（列数）
           let lastRow = sheet.getLastRow();
