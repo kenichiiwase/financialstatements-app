@@ -1,6 +1,6 @@
 const CHANNEL_ACCESS_TOKEN =
-  "KP+JFCztkTwFT7+I+T2NQzPlV8nfLLhrS6umwhFAJ9HAIkjtKcJOBEDBMoIGxFhXVUYe08+oddiXt+PaSXcc0T9k5R61UpIjm4v2+dA6Hk8Eg/EuLXNToHaFExuS0qL+1Eqip1HtDG64W436E0BYewdB04t89/1O/w1cDnyilFU=";
-const USER_ID = "U2d89d22808569ca6a1d0d1159c9e5186";
+  "ご自身のアクセストークン;
+const USER_ID = "ご自身のユーザーID";
 
 //今日の日付
 const dt = new Date();
@@ -60,7 +60,7 @@ function getInvestInf() {
           let jjj = arr[0].length; //ヨコ（列数）
           let lastRow = sheet.getLastRow();
           sheet.getRange(2, 1, lastRow, 4).clearContent();
-          //スプレッドシートのA2セルを起点として、配列arrをセットする
+          //スプレッドシートのA2セルを起点として、配列arrをセットする。
           sheet.getRange(2, 1, iii, jjj).setValues(arr);
         }
       }
@@ -75,8 +75,8 @@ function getInvestInf() {
 
 //実際にメッセージを送信する関数を作成します。
 function push(message) {
-  //toのところにメッセージを送信したいユーザーのIDを指定します。(toは最初の方で自分のIDを指定したので、linebotから自分に送信されることになります。)
-  //textの部分は、送信されるメッセージが入ります。getInvestInfという関数で定義したメッセージがここに入ります。
+  //toのところにメッセージを送信したいユーザーのIDを指定します。toは最初の方で自分のIDを指定したので、linebotから自分に送信されることになる。
+  //textの部分は、送信されるメッセージが入ります。getInvestInfという関数で定義したメッセージがここに入る。
   const postData = {
     to: USER_ID,
     messages: [
@@ -92,13 +92,6 @@ function push(message) {
     "Content-Type": "application/json",
     Authorization: "Bearer " + CHANNEL_ACCESS_TOKEN,
   };
-
-  //  const options = {
-  //    "method": "post",
-  //    "headers": headers,
-  //    "payload": JSON.stringify(postData),
-  //    "muteHttpExceptions": true
-  //  };
 
   const response = UrlFetchApp.fetch(aaa, {
     method: "post",
