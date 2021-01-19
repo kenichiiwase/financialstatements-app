@@ -14,6 +14,35 @@ const today = y + '/' + m + '/' + d;
 
 // yyyymmdd = "20201229";
 
+//実際にメッセージを送信する関数を作成します。
+function push(message) {
+  //toのところにメッセージを送信したいユーザーのIDを指定します。(toは最初の方で自分のIDを指定したので、linebotから自分に送信されることになる。)
+  //textの部分は、送信されるメッセージが入ります。getInvestInfという関数で定義したメッセージがここに入る。
+  const postData = {
+    to: USER_ID,
+    messages: [
+      {
+        type: 'text',
+        text: message,
+      },
+    ],
+  };
+
+  const link = 'https://api.line.me/v2/bot/message/push';
+  const headers = {
+    'Content-Type': 'application/json',
+    Authorization: 'Bearer ' + CHANNEL_ACCESS_TOKEN,
+  };
+
+  const options = {
+    method: 'post',
+    headers: headers,
+    payload: JSON.stringify(postData),
+  };
+
+  const response = UrlFetchApp.fetch(link, options);
+}
+
 function getInvestInf() {
   const api =
     'https://webapi.yanoshin.jp/webapi/tdnet/list/' + yyyymmdd + '.json';
@@ -69,33 +98,4 @@ function getInvestInf() {
     return push(message);
   }
   return push(message);
-}
-
-//実際にメッセージを送信する関数を作成します。
-function push(message) {
-  //toのところにメッセージを送信したいユーザーのIDを指定します。(toは最初の方で自分のIDを指定したので、linebotから自分に送信されることになる。)
-  //textの部分は、送信されるメッセージが入ります。getInvestInfという関数で定義したメッセージがここに入る。
-  const postData = {
-    to: USER_ID,
-    messages: [
-      {
-        type: 'text',
-        text: message,
-      },
-    ],
-  };
-
-  const link = 'https://api.line.me/v2/bot/message/push';
-  const headers = {
-    'Content-Type': 'application/json',
-    Authorization: 'Bearer ' + CHANNEL_ACCESS_TOKEN,
-  };
-
-  const options = {
-    method: 'post',
-    headers: headers,
-    payload: JSON.stringify(postData),
-  };
-
-  const response = UrlFetchApp.fetch(link, options);
 }
