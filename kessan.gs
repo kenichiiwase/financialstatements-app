@@ -43,7 +43,7 @@ function push(message) {
   const response = UrlFetchApp.fetch(link, options);
 }
 
-function getInvestInf() {
+function main() {
   const api =
     'https://webapi.yanoshin.jp/webapi/tdnet/list/' + yyyymmdd + '.json';
 
