@@ -1,4 +1,4 @@
-# Financialstatements-app
+# Financialstatements-app(google-app-script)
 東証が運営するTDnetからその日に発表された決算短信のみをスクレイピングし、Line Botから日時でpush通知し、スプレッドシートへ書き出し処理を行う。
 
 ◆Line Botからpush通知する情報
