@@ -28,7 +28,7 @@
 4. チャンネルの作成  
 ![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)
 
-5. MessageAPIタブからアクセストークンの発行  
+5. MessageAPIタブからアクセストークンの発行※QRコードでラインbotを読み込んでおく  
 ![スクリーンショット 2021-09-12 232018](https://user-images.githubusercontent.com/44935028/132991592-802bb31d-e97d-4ad9-b5d2-35f61a92102a.png)  
 
 6. LINE Offical Account featuresからEditを選択し、応答設定のあいさつメッセージ、応答メッセージをオフに設定
