@@ -48,7 +48,8 @@
 ![スクリーンショット 2021-09-13 010632](https://user-images.githubusercontent.com/44935028/132994753-aa414277-def8-4bda-9290-34c15cf26727.png)  
 
 11.  スプレッドシートのリンクを貼り付ける  
-
+![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
+![スクリーンショット 2021-09-13 011214](https://user-images.githubusercontent.com/44935028/132994945-cf7f35e4-3961-4fcb-b34b-10af1e012c46.png)  
 
 
 
