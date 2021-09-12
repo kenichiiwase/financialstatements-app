@@ -43,7 +43,11 @@
 
 8. https://github.com/kenichiiwase/Financialstatements-app/blob/main/kessan.gs のファイルを全選択し、貼り付ける  
 
-9. 
+9. 自身のアクセストークンを貼り付ける。  
+
+
+
+10. 
 
 
 
