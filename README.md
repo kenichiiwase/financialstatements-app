@@ -40,14 +40,14 @@
 
 8. https://github.com/kenichiiwase/Financialstatements-app/blob/main/kessan.gs のファイルを全選択し、貼り付ける  
 
-9. 自身のアクセストークン、ユーザIDを貼り付ける。  
+9. 自身のアクセストークン、ユーザIDを貼り付ける  
 ![スクリーンショット 2021-09-12 235149](https://user-images.githubusercontent.com/44935028/132992336-c073ebee-3561-41ac-8d7d-8cdf6b7b2d37.png)  
 
-10. 書き出したいスプレッドシートのidをコピーし、貼り付ける。 
+10. 書き出したいスプレッドシートのidをコピーし、貼り付ける 
 ![スクリーンショット 2021-09-13 004923](https://user-images.githubusercontent.com/44935028/132994197-54299cae-fc49-49b8-bfb0-3859ebc5b45f.png)  
 ![スクリーンショット 2021-09-13 010632](https://user-images.githubusercontent.com/44935028/132994753-aa414277-def8-4bda-9290-34c15cf26727.png)  
 
-11.  
+11.  スプレッドシートのリンクを貼り付ける  
 
 
 
