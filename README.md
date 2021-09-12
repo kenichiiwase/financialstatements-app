@@ -45,6 +45,7 @@
 
 10. 書き出したいスプレッドシートのidをコピーし、貼り付ける。 
 ![スクリーンショット 2021-09-13 004923](https://user-images.githubusercontent.com/44935028/132994197-54299cae-fc49-49b8-bfb0-3859ebc5b45f.png)  
+![スクリーンショット 2021-09-13 010632](https://user-images.githubusercontent.com/44935028/132994753-aa414277-def8-4bda-9290-34c15cf26727.png)  
 
 11.  
 
