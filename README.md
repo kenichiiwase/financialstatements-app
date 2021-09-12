@@ -13,7 +13,7 @@
 - タイトル  
 - pdfリンク   
 
-## 環境インストール方法
+## 使用手順
 1. Lineデベロッパーへアクセス  
   https://developers.line.biz/en/  にて、LineDevelopersへのログインを行う。   
 
