@@ -29,3 +29,15 @@
 
 4. チャンネルの作成  
 ![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)
+
+5. MessageAPIタブからアクセストークンの発行  
+![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)  
+
+6. MessageAPIタブからアクセストークンの発行  
+
+
+
+
+
+
+
