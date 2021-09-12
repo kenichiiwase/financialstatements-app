@@ -47,17 +47,19 @@
 ![スクリーンショット 2021-09-13 004923](https://user-images.githubusercontent.com/44935028/132994197-54299cae-fc49-49b8-bfb0-3859ebc5b45f.png)  
 ![スクリーンショット 2021-09-13 022541](https://user-images.githubusercontent.com/44935028/132996951-21355fa5-8588-4a55-8c3f-0754320715b0.png)  
 
-11.  スプレッドシートのリンク+\n\nを貼り付ける  
+11. スプレッドシートのリンク+\n\nを貼り付ける  
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
 ![スクリーンショット 2021-09-13 022716](https://user-images.githubusercontent.com/44935028/132996985-e5983953-503b-4178-92e5-7f64646ccd0a.png)  
 
-12.  デプロイする　　
+12. デプロイする　　
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
 
-13.URLをwebhookへ貼り付ける  
+13. URLをwebhookへ貼り付ける  
 ![スクリーンショット 2021-09-13 023506](https://user-images.githubusercontent.com/44935028/132997190-145e06cb-5ed1-4e6d-b01c-94c1547161e6.png)　　
 ![スクリーンショット 2021-09-13 023839](https://user-images.githubusercontent.com/44935028/132997288-beb43f60-db19-4cdb-bdbd-6643ff142439.png)  
 
-14.  
+14. トリガーを選択後、トリガー追加ボタンを押下  
+![スクリーンショット 2021-09-13 024158](https://user-images.githubusercontent.com/44935028/132997433-50a2b789-d9dc-4db8-a331-1884fefa4ad1.png)  
 
-
+15. 下記タイマーに設定（日時で20-21時にpush通知される）  
+![スクリーンショット 2021-09-13 024129](https://user-images.githubusercontent.com/44935028/132997434-8eeca2ab-0df7-44b2-98eb-bb8d73264dab.png)  
