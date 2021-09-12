@@ -49,7 +49,7 @@
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
 ![スクリーンショット 2021-09-13 022716](https://user-images.githubusercontent.com/44935028/132996985-e5983953-503b-4178-92e5-7f64646ccd0a.png)  
 
-12. 新しいデプロイ>ウェブアプリ>　
+12. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
 
 13. URLをwebhook URLへ貼り付ける  
