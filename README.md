@@ -52,9 +52,12 @@
 ![スクリーンショット 2021-09-13 022716](https://user-images.githubusercontent.com/44935028/132996985-e5983953-503b-4178-92e5-7f64646ccd0a.png)  
 
 12.  デプロイする　　
-![スクリーンショット 2021-09-13 023506](https://user-images.githubusercontent.com/44935028/132997190-145e06cb-5ed1-4e6d-b01c-94c1547161e6.png)　　
-
-13.URLをwebhookへコピー  
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
+
+13.URLをwebhookへ貼り付ける  
+![スクリーンショット 2021-09-13 023506](https://user-images.githubusercontent.com/44935028/132997190-145e06cb-5ed1-4e6d-b01c-94c1547161e6.png)　　
+![スクリーンショット 2021-09-13 023839](https://user-images.githubusercontent.com/44935028/132997288-beb43f60-db19-4cdb-bdbd-6643ff142439.png)  
+
+14.  
 
 
