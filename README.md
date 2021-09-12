@@ -34,12 +34,12 @@
 5. MessageAPIタブからアクセストークンの発行  
 ![スクリーンショット 2021-09-12 232018](https://user-images.githubusercontent.com/44935028/132991592-802bb31d-e97d-4ad9-b5d2-35f61a92102a.png)  
 
-6.   LINE Offical Account featuresからEditを選択し、応答設定のあいさつメッセージ、応答メッセージをオフに設定
+6. LINE Offical Account featuresからEditを選択し、応答設定のあいさつメッセージ、応答メッセージをオフに設定
 ![スクリーンショット 2021-09-12 232721](https://user-images.githubusercontent.com/44935028/132991627-4e5b6158-12ba-47ab-9ee0-d391fe943bfb.png)  
 ![スクリーンショット 2021-09-12 232842](https://user-images.githubusercontent.com/44935028/132991626-57bcb342-dee3-435a-957b-0a5a290e4a5c.png)  
 
-
-
+7. Googleドライブへ移動し、Google App Scriptを選択  
+![スクリーンショット 2021-09-12 233813](https://user-images.githubusercontent.com/44935028/132991990-39977ee5-0eb1-4784-aad5-afc4ee470a1d.png)  
 
 
 
