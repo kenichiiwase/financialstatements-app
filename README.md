@@ -1,8 +1,9 @@
 # Financialstatements-app(google-app-script)
 ## 機能
-東証が運営するTDnetからその日に発表された決算短信のみをスクレイピングし、Line Botから日時でpush通知し、スプレッドシートへ書き出し処理を行う。
+東証が運営するTDnetから決算短信をスクレイピングし、LINE Botから日時での通知、スプレッドシートへ書き出し処理を行う。  
 
-◆Line Botからpush通知する情報  
+
+◆LINE Botへpush通知する情報  
 - 証券コード  
 - 会社名  
 - タイトル  
@@ -16,8 +17,6 @@
 ## 使用手順
 1. Lineデベロッパーへアクセス  
   https://developers.line.biz/en/  にて、LineDevelopersへのログインを行う。   
-
-
 
 2. プロバイダーの作成  
 ![スクリーンショット 2021-09-12 225602](https://user-images.githubusercontent.com/44935028/132990909-5a0d8fba-d884-4e3b-a908-e45cb8a889cc.png)  
@@ -38,7 +37,7 @@
 7. Googleドライブへ移動し、Google App Scriptを選択  
 ![スクリーンショット 2021-09-12 233813](https://user-images.githubusercontent.com/44935028/132991990-39977ee5-0eb1-4784-aad5-afc4ee470a1d.png)  
 
-8. https://github.com/kenichiiwase/Financialstatements-app/blob/main/kessan.gs のファイルを全選択し、貼り付ける  
+8. https://github.com/kenichiiwase/Financialstatements-app/blob/master/kessan.gs のファイルを全選択し、貼り付ける  
 
 9. 自身のアクセストークン、ユーザIDを貼り付ける  
 ![スクリーンショット 2021-09-13 022319](https://user-images.githubusercontent.com/44935028/132996898-c51bf362-6e34-4cb6-8244-ec2df99e31df.png)    
