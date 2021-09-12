@@ -1,10 +1,10 @@
 const CHANNEL_ACCESS_TOKEN = "アクセストークン";
-const USER_ID = "ユーザーID";
+const USER_ID = "ユーザID";
 
 // 今日の日付
 let today = new Date();
-apitoday = Utilities.formatDate(today, "JST", "yyyyMMdd");
-today = Utilities.formatDate(today, "JST", "yyyy/MM/dd");
+apitoday = Utilities.formatDate(today,"JST", "yyyyMMdd");
+today = Utilities.formatDate(today,"JST", "yyyy/MM/dd");
 
 //実際にメッセージを送信する関数を作成します。
 function push(message) {
@@ -26,17 +26,18 @@ function push(message) {
     Authorization: "Bearer " + CHANNEL_ACCESS_TOKEN,
   };
 
-  const options = {
-    method: "post",
-    headers: headers,
-    payload: JSON.stringify(postData),
-  };
+   const options = {
+     "method": "post",
+     "headers": headers,
+     "payload": JSON.stringify(postData)
+   };
 
   const response = UrlFetchApp.fetch(link, options);
-}
+ };
 
 function main() {
-  const api = `https://webapi.yanoshin.jp/webapi/tdnet/list/${apitoday}.json`;
+  const api =
+    `https://webapi.yanoshin.jp/webapi/tdnet/list/${apitoday}.json`;
 
   // 証券コード
   let companycode;
@@ -50,7 +51,8 @@ function main() {
   let count = 0;
   let message = `${today}の決算短信じゃ\n`;
   message += "確認せ～\n";
-  message += "スプレッドシートのリンク";
+  message +=
+    "スプレッドシートリンク\n\n";
   const response = UrlFetchApp.fetch(api);
   let investobj = JSON.parse(response.getContentText());
   if (investobj.total_count > 0) {
@@ -70,7 +72,7 @@ function main() {
 
           arr.push([companycode, companyname, title, documenturl]);
 
-          let id = "スプレッドシートのID";
+          let id = "スプレッドシートID";
           let ss = SpreadsheetApp.openById(id);
           let sheet = ss.getSheetByName("決算短信");
           let iii = arr.length; //タテ（行数）
@@ -83,13 +85,13 @@ function main() {
       }
     }
     if (count != 0) {
-      message += `${count}件あるぞ`;
+    message += `${count}件あるぞ`
     } else {
-      message = `${today} の決算短信はない。`;
+    message = `${today} の決算短信はない。`;      
     }
   } else {
     message = `${today} の決算短信はない。`;
     return push(message);
   }
   return push(message);
-}
+};
