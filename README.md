@@ -57,7 +57,7 @@
 ![スクリーンショット 2021-09-13 023839](https://user-images.githubusercontent.com/44935028/132997288-beb43f60-db19-4cdb-bdbd-6643ff142439.png)  
 
 14. トリガーを選択後、トリガー追加ボタンを押下  
-![スクリーンショット 2021-09-13 024158](https://user-images.githubusercontent.com/44935028/132997433-50a2b789-d9dc-4db8-a331-1884fefa4ad1.png)  
+![スクリーンショット 2021-09-13 024129](https://user-images.githubusercontent.com/44935028/132997434-8eeca2ab-0df7-44b2-98eb-bb8d73264dab.png)  
 
 15. 下記タイマーに設定（日時で20-21時にpush通知される）  
-![スクリーンショット 2021-09-13 024129](https://user-images.githubusercontent.com/44935028/132997434-8eeca2ab-0df7-44b2-98eb-bb8d73264dab.png)  
+![スクリーンショット 2021-09-13 024158](https://user-images.githubusercontent.com/44935028/132997433-50a2b789-d9dc-4db8-a331-1884fefa4ad1.png)  
