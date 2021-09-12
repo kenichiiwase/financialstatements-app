@@ -49,7 +49,6 @@
 
 11.  スプレッドシートのリンク+\n\nを貼り付ける  
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
-![スクリーンショット 2021-09-13 011214](https://user-images.githubusercontent.com/44935028/132994945-cf7f35e4-3961-4fcb-b34b-10af1e012c46.png)  
-
+![スクリーンショット 2021-09-13 022716](https://user-images.githubusercontent.com/44935028/132996985-e5983953-503b-4178-92e5-7f64646ccd0a.png)  
 
 
