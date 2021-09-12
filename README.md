@@ -41,6 +41,10 @@
 7. Googleドライブへ移動し、Google App Scriptを選択  
 ![スクリーンショット 2021-09-12 233813](https://user-images.githubusercontent.com/44935028/132991990-39977ee5-0eb1-4784-aad5-afc4ee470a1d.png)  
 
+8. https://github.com/kenichiiwase/Financialstatements-app/blob/main/kessan.gs のファイルを全選択し貼り付ける  
+
+9. 
+
 
 
 
