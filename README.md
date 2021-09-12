@@ -16,4 +16,4 @@
 ※アクセストークン、ユーザーIDはラインディベロッパーからご自身で取得したもの入力する。
 ※スプレッドシートは書き出したいスプレッドシートのidをコピーし、張り付ける。
 ## 環境インストール方法
-1. https://developers.line.biz/en/　にて、LineDevelopersへのログインを行う。
+1. https://developers.line.biz/en/ にて、LineDevelopersへのログインを行う。
