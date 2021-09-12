@@ -23,6 +23,8 @@
 
 2. プロバイダーの作成  
 ![スクリーンショット 2021-09-12 225602](https://user-images.githubusercontent.com/44935028/132990909-5a0d8fba-d884-4e3b-a908-e45cb8a889cc.png)  
+
+3. MessageAPIの選択    
 ![スクリーンショット 2021-09-12 225635](https://user-images.githubusercontent.com/44935028/132990912-f81f5b45-ee97-43fd-b635-6dc19740aa63.png)
 
 2. チャンネルの作成  
