@@ -27,5 +27,5 @@
 3. MessageAPIの選択    
 ![スクリーンショット 2021-09-12 225635](https://user-images.githubusercontent.com/44935028/132990912-f81f5b45-ee97-43fd-b635-6dc19740aa63.png)
 
-2. チャンネルの作成  
+4. チャンネルの作成  
 ![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)
