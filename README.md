@@ -42,7 +42,7 @@
 ![スクリーンショット 2021-09-13 022319](https://user-images.githubusercontent.com/44935028/132996898-c51bf362-6e34-4cb6-8244-ec2df99e31df.png)    
 
 10. 書き出したいスプレッドシートのidをコピーし、貼り付ける 
-![スクリーンショット 2021-09-13 004923](https://user-images.githubusercontent.com/44935028/132994197-54299cae-fc49-49b8-bfb0-3859ebc5b45f.png)  
+![スクリーンショット 2021-09-13 213502](https://user-images.githubusercontent.com/44935028/133084458-66b4f349-c655-4cbb-a55a-c951d589e76c.png)    
 ![スクリーンショット 2021-09-13 022541](https://user-images.githubusercontent.com/44935028/132996951-21355fa5-8588-4a55-8c3f-0754320715b0.png)  
 
 11. スプレッドシートのリンク+\n\nを貼り付ける  
