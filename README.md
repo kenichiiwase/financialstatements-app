@@ -42,6 +42,8 @@
 ![スクリーンショット 2021-09-13 022319](https://user-images.githubusercontent.com/44935028/132996898-c51bf362-6e34-4cb6-8244-ec2df99e31df.png)    
 
 10. 書き出したいスプレッドシートのidをコピーし、貼り付ける 
+　　※IDに「-」の記載があるものは書き出しがうまく処理されない為、数字と英字のみの記載があるものにする。  
+    ex)1yqPsU4EkYEHc15k3V72UwGI9TYUWbUhaGS0XWSfbCB0
 ![スクリーンショット 2021-09-13 213950](https://user-images.githubusercontent.com/44935028/133085135-ecaab8b9-3e87-4329-9324-d86382197b42.png)  
 ![スクリーンショット 2021-09-13 213502](https://user-images.githubusercontent.com/44935028/133084458-66b4f349-c655-4cbb-a55a-c951d589e76c.png)   
 
