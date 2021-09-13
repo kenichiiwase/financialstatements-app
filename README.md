@@ -41,22 +41,29 @@
 9. 自身のアクセストークン、ユーザIDを貼り付ける  
 ![スクリーンショット 2021-09-13 022319](https://user-images.githubusercontent.com/44935028/132996898-c51bf362-6e34-4cb6-8244-ec2df99e31df.png)    
 
-10. 書き出したいスプレッドシートのidをコピーし、貼り付ける 
-![スクリーンショット 2021-09-13 004923](https://user-images.githubusercontent.com/44935028/132994197-54299cae-fc49-49b8-bfb0-3859ebc5b45f.png)  
-![スクリーンショット 2021-09-13 022541](https://user-images.githubusercontent.com/44935028/132996951-21355fa5-8588-4a55-8c3f-0754320715b0.png)  
+10. 書き出したいスプレッドシートのidをコピーし、貼り付ける  
+※IDに「-」の記載があるものは書き出しがうまく処理されない為、数字と英字のみの記載があるものを使用する。 
+ex)1yqPsU4EkYEHc15k3V72UwGI9TYUWbUhaGS0XWSfbCB0  
+![スクリーンショット 2021-09-13 213950](https://user-images.githubusercontent.com/44935028/133085135-ecaab8b9-3e87-4329-9324-d86382197b42.png)  
+![スクリーンショット 2021-09-13 213502](https://user-images.githubusercontent.com/44935028/133084458-66b4f349-c655-4cbb-a55a-c951d589e76c.png)   
 
 11. スプレッドシートのリンク+\n\nを貼り付ける  
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
+![スクリーンショット 2021-09-13 214204](https://user-images.githubusercontent.com/44935028/133085389-8f9510d4-9fef-479b-abe0-dd9247d8346b.png)
 
-12. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
+12. スプレッドシートのシート名を貼り付ける  
+![スクリーンショット 2021-09-13 214555](https://user-images.githubusercontent.com/44935028/133085939-b150466e-dacd-4dad-bbd1-9c3a6297f760.png)    
+![スクリーンショット 2021-09-13 213436](https://user-images.githubusercontent.com/44935028/133084459-aa17ffdd-ae9a-4c7f-bc1e-ad354e513220.png)    
+
+13. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
 
-13. URLをwebhook URLへ貼り付ける  
+14. URLをコピーし、webhook URLへ貼り付ける  
 ![スクリーンショット 2021-09-13 023506](https://user-images.githubusercontent.com/44935028/132997190-145e06cb-5ed1-4e6d-b01c-94c1547161e6.png)　　
 ![スクリーンショット 2021-09-13 023839](https://user-images.githubusercontent.com/44935028/132997288-beb43f60-db19-4cdb-bdbd-6643ff142439.png)  
 
-14. トリガーを選択後、トリガー追加ボタンを押下  
+15. トリガーを選択後、トリガー追加ボタンを押下  
 ![スクリーンショット 2021-09-13 024129](https://user-images.githubusercontent.com/44935028/132997434-8eeca2ab-0df7-44b2-98eb-bb8d73264dab.png)  
 
-15. 下記タイマーに設定（日次で20-21時にpush通知する）  
+16. 下記タイマーに設定（日次で20-21時にpush通知する）  
 ![スクリーンショット 2021-09-13 024158](https://user-images.githubusercontent.com/44935028/132997433-50a2b789-d9dc-4db8-a331-1884fefa4ad1.png)
