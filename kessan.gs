@@ -74,7 +74,7 @@ function main() {
 
           let id = "スプレッドシートID";
           let ss = SpreadsheetApp.openById(id);
-          let sheet = ss.getSheetByName("決算短信");
+          let sheet = ss.getSheetByName("シート名");
           let iii = arr.length; //タテ（行数）
           let jjj = arr[0].length; //ヨコ（列数）
           let lastRow = sheet.getLastRow();
