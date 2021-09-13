@@ -47,7 +47,6 @@
 
 11. スプレッドシートのリンク+\n\nを貼り付ける  
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
-![スクリーンショット 2021-09-13 214204](https://user-images.githubusercontent.com/44935028/133085389-8f9510d4-9fef-479b-abe0-dd9247d8346b.png)
 
 12. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
