@@ -49,7 +49,8 @@
 ![スクリーンショット 2021-09-13 011110](https://user-images.githubusercontent.com/44935028/132994943-846b5e82-2459-4bdf-9c26-7e6dba75ebc7.png)  
 ![スクリーンショット 2021-09-13 214204](https://user-images.githubusercontent.com/44935028/133085389-8f9510d4-9fef-479b-abe0-dd9247d8346b.png)
 
-12. スプレッドシートのシート名を貼り付ける    
+12. スプレッドシートのシート名を貼り付ける  
+![スクリーンショット 2021-09-13 214555](https://user-images.githubusercontent.com/44935028/133085939-b150466e-dacd-4dad-bbd1-9c3a6297f760.png)    
 ![スクリーンショット 2021-09-13 213436](https://user-images.githubusercontent.com/44935028/133084459-aa17ffdd-ae9a-4c7f-bc1e-ad354e513220.png)    
 
 13. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
