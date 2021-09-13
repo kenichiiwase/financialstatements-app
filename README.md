@@ -50,7 +50,7 @@
 ![スクリーンショット 2021-09-13 022716](https://user-images.githubusercontent.com/44935028/132996985-e5983953-503b-4178-92e5-7f64646ccd0a.png)  
 
 12. スプレッドシートのシート名を貼り付ける    
-
+![スクリーンショット 2021-09-13 213502](https://user-images.githubusercontent.com/44935028/133084458-66b4f349-c655-4cbb-a55a-c951d589e76c.png)  
 
 13. 新しいデプロイ>ウェブアプリ>デプロイボタンを押下　
 ![スクリーンショット 2021-09-13 023434](https://user-images.githubusercontent.com/44935028/132997192-ad84f851-3ee2-4230-9da8-71cfa8d5cda9.png)　　    
