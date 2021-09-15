@@ -14,7 +14,7 @@ LINE Botへpush通知する情報
 - pdfリンク   
 
 ## 使用手順
-1. Lineデベロッパーへアクセス  
+1. LINEデベロッパーへアクセス  
   https://developers.line.biz/en/  にて、LineDevelopersへのログインを行う。   
 
 2. プロバイダーの作成  
@@ -26,7 +26,7 @@ LINE Botへpush通知する情報
 4. チャンネルの作成  
 ![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)
 
-5. MessageAPIタブからアクセストークンの発行   ※QRコードを事前にLINEから読み込む  
+5. MessageAPIタブからアクセストークンの発行   ※予めQRコードからLINEへアカウントを追加しておく  
 ![スクリーンショット 2021-09-12 232018](https://user-images.githubusercontent.com/44935028/132991592-802bb31d-e97d-4ad9-b5d2-35f61a92102a.png)  
 
 6. LINE Offical Account featuresからEditを選択し、応答設定のあいさつメッセージ、応答メッセージをオフとし、webhookをオンに設定
