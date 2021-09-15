@@ -1,20 +1,20 @@
-# Financialstatements-app(google-app-script)
+# 決算短信通知bot(google-app-script)
 ## 機能
 東証が運営するTDnet（https://www.release.tdnet.info/inbs/I_main_00.html） から決算短信をスクレイピングし、LINEへの通知、スプレッドシートへの書き出し処理を行う
 
-◆LINE Botへpush通知する情報  
+LINE Botへpush通知する情報  
 - 証券コード  
 - 会社名  
 - タイトル  
 
-◆スプレッドシートへ書き出す情報  
+スプレッドシートへ書き出す情報  
 - 証券コード  
 - 会社名  
 - タイトル  
 - pdfリンク   
 
 ## 使用手順
-1. Lineデベロッパーへアクセス  
+1. LINEデベロッパーへアクセス  
   https://developers.line.biz/en/  にて、LineDevelopersへのログインを行う。   
 
 2. プロバイダーの作成  
@@ -26,7 +26,7 @@
 4. チャンネルの作成  
 ![スクリーンショット 2021-09-12 230154](https://user-images.githubusercontent.com/44935028/132990907-9295021c-9f35-40a6-ade3-d3e064c289d3.png)
 
-5. MessageAPIタブからアクセストークンの発行   ※QRコードを事前にLINEから読み込む  
+5. MessageAPIタブからアクセストークンの発行   ※予めQRコードからLINEへアカウントを追加しておく  
 ![スクリーンショット 2021-09-12 232018](https://user-images.githubusercontent.com/44935028/132991592-802bb31d-e97d-4ad9-b5d2-35f61a92102a.png)  
 
 6. LINE Offical Account featuresからEditを選択し、応答設定のあいさつメッセージ、応答メッセージをオフとし、webhookをオンに設定
