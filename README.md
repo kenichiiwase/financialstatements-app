@@ -1,6 +1,6 @@
 # 決算短信通知bot(google-app-script)
 ## 機能
-東証が運営するTDnet（https://www.release.tdnet.info/inbs/I_main_00.html） から決算短信をスクレイピングし、LINEへの通知、スプレッドシートへの書き出し処理を行う
+東証が運営するTDnet（https://www.release.tdnet.info/inbs/I_main_00.html） から決算短信をスクレイピングし、LINEへの通知処理と、スプレッドシートへの書き出し処理を行う
 
 LINE Botへpush通知する情報  
 - 証券コード  
